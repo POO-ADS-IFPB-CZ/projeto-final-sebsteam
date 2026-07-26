@@ -14,7 +14,7 @@ import java.util.List;
  * Popula o sistema com alguns dados de exemplo na primeira execução (quando
  * ainda não existe nenhum autor cadastrado), só para a aplicação não abrir
  * com todas as telas vazias. Em execuções seguintes, como os arquivos em
- * data/ já existem, este passo é ignorado.
+ * data / já existem, este passo é ignorado.
  */
 public final class DadosIniciais {
 
